@@ -1,12 +1,15 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="280" fill="#070807"/>
-  <rect x="22" y="22" width="1156" height="236" rx="18" fill="#0B0D0C" stroke="#232823"/>
-  <path d="M50 68H1150" stroke="#1D221E"/>
-  <path d="M50 231H360" stroke="#C7FF36" stroke-width="2"/>
-  <circle cx="57" cy="48" r="4" fill="#C7FF36"/>
-  <circle cx="73" cy="48" r="4" fill="#343A35"/>
-  <circle cx="89" cy="48" r="4" fill="#343A35"/>
-  <text x="50" y="126" fill="#C7FF36" font-size="17" font-family="monospace">PORTFOLIO / DEV-GIAPHU</text>
-  <text x="48" y="188" fill="#F4F5EF" font-size="56" font-weight="700" font-family="monospace">UNITY GAME DEVELOPER</text>
-  <text x="50" y="219" fill="#8F978F" font-size="18" font-family="monospace">Unity • C# • Gameplay • Systems • Tools</text>
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#101621"/>
+  <rect x="30" y="26" width="1134" height="238" fill="#18242F" stroke="#FFFFFF25"/>
+  <rect x="39" y="35" width="1134" height="238" fill="none" stroke="#080E17" stroke-width="6" opacity=".75"/>
+  <rect x="58" y="52" width="34" height="34" fill="#A2EFD1"/>
+  <text x="75" y="75" text-anchor="middle" fill="#142927" font-size="17" font-weight="700" font-family="monospace">G.</text>
+  <text x="110" y="74" fill="#EEF2E6" font-size="18" font-weight="700" font-family="monospace">GIA PHU</text>
+  <text x="222" y="74" fill="#94A4A9" font-size="13" font-family="monospace">/ GAME DEV</text>
+  <line x1="58" y1="96" x2="1138" y2="96" stroke="#FFFFFF16"/>
+  <text x="58" y="138" fill="#FFD18C" font-size="13" font-family="monospace" letter-spacing="3">PLAYER PROFILE / UNITY DEVELOPER</text>
+  <text x="56" y="199" fill="#EEF2E6" font-size="54" font-weight="700" font-family="monospace">DEV-GIAPHU</text>
+  <text x="60" y="233" fill="#A2EFD1" font-size="18" font-family="monospace">UNITY • C# • GAMEPLAY • SYSTEMS • TOOLS</text>
+  <rect x="1006" y="205" width="132" height="34" fill="#12232B" stroke="#A2EFD177"/>
+  <text x="1072" y="227" text-anchor="middle" fill="#A2EFD1" font-size="12" font-family="monospace">PORTFOLIO ↗</text>
 </svg>
