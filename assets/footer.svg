@@ -1,5 +1,7 @@
-<svg width="1200" height="46" viewBox="0 0 1200 46" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="46" fill="#070807"/>
-  <path d="M0 23H1200" stroke="#1D221E"/>
-  <path d="M430 23H770" stroke="#C7FF36" stroke-width="2"/>
+<svg width="1200" height="105" viewBox="0 0 1200 105" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="105" fill="#101621"/>
+  <line x1="30" y1="31" x2="1164" y2="31" stroke="#FFFFFF16"/>
+  <rect x="30" y="48" width="7" height="7" fill="#A2EFD1"/>
+  <text x="52" y="58" fill="#94A4A9" font-size="11" font-family="monospace">DEV-GIAPHU / GAME DEVELOPER</text>
+  <text x="995" y="58" fill="#FFD18C" font-size="11" font-family="monospace">PLAYER READY.</text>
 </svg>
