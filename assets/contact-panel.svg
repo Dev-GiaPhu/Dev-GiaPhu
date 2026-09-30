@@ -1,0 +1,14 @@
+<svg width="1200" height="356" viewBox="0 0 1200 356" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="356" fill="#101621"/>
+<text x="44" y="48" fill="#A2EFD1" font-size="12" font-family="monospace" letter-spacing="2">COMMUNICATION STATION / 03</text>
+<text x="44" y="112" fill="#EEF2E6" font-size="52" font-weight="700" font-family="monospace">LET'S MAKE</text>
+<text x="44" y="165" fill="#EEF2E6" font-size="52" font-weight="700" font-family="monospace">SOMETHING PLAY.</text>
+<text x="48" y="198" fill="#AEBFC4" font-size="16" font-family="sans-serif">Một ý tưởng game, một dự án thú vị, hay chỉ một lời chào.</text>
+<rect x="44" y="225" width="1112" height="100" fill="#192833" stroke="#A2EFD133"/>
+<rect x="50" y="231" width="1112" height="100" fill="none" stroke="#080E17" stroke-width="6"/>
+<text x="68" y="256" fill="#A2EFD1" font-size="11" font-family="monospace" letter-spacing="2">FIND ME ONLINE</text>
+<text x="68" y="289" fill="#EEF2E6" font-size="20" font-weight="700" font-family="sans-serif">Dev-GiaPhu / GitHub</text>
+<text x="68" y="313" fill="#BBCBCE" font-size="13" font-family="sans-serif">Xem mã nguồn và các dự án công khai của tôi trên GitHub.</text>
+<rect x="949" y="253" width="168" height="40" fill="#A2EFD1"/>
+<text x="1033" y="279" text-anchor="middle" fill="#132B2B" font-size="13" font-weight="700" font-family="sans-serif">Mở GitHub</text>
+</svg>
