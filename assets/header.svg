@@ -1,0 +1,16 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#070807"/>
+  <rect x="24" y="24" width="1152" height="252" rx="18" fill="#0B0D0C" stroke="#252A26"/>
+  <circle cx="66" cy="60" r="5" fill="#C7FF36"/>
+  <circle cx="84" cy="60" r="5" fill="#353B36"/>
+  <circle cx="102" cy="60" r="5" fill="#353B36"/>
+  <path d="M48 92H1152" stroke="#1B211C"/>
+  <path d="M48 252H330" stroke="#C7FF36" stroke-width="2"/>
+  <path d="M880 48H1152" stroke="#C7FF36" stroke-opacity=".25"/>
+  <path d="M1020 75H1152" stroke="#C7FF36" stroke-opacity=".12"/>
+  <rect x="49" y="111" width="10" height="10" fill="#C7FF36"/>
+  <text x="75" y="121" fill="#8E968F" font-size="18" font-family="monospace">~/profile</text>
+  <text x="48" y="184" fill="#F4F5EF" font-size="58" font-weight="700" font-family="monospace">DEV-GIAPHU</text>
+  <text x="51" y="218" fill="#C7FF36" font-size="18" font-family="monospace">BUILD // BREAK // LEARN // REPEAT</text>
+  <text x="994" y="252" fill="#667067" font-size="13" font-family="monospace">STATUS: ONLINE</text>
+</svg>
