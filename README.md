@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Nguyen Gia Phu - Unity Game Developer"/>
+<a href="https://dev-giaphu.github.io/Portfolio-GiaPhu/">
+  <img src="./assets/header.svg" width="100%" alt="Nguyen Gia Phu - Unity Game Developer"/>
+</a>
 
 <br/>
 
@@ -9,8 +11,6 @@
 ### Nguyễn Gia Phú
 
 **Game Developer · Unity Developer**
-
-Tôi tập trung vào **Unity**, **C#**, gameplay systems và UI trong game.
 
 <p>
   <img src="https://img.shields.io/badge/UNITY-0B1118?style=for-the-badge&logo=unity&logoColor=8FF5D0" alt="Unity"/>
@@ -23,60 +23,58 @@ Tôi tập trung vào **Unity**, **C#**, gameplay systems và UI trong game.
 
 ---
 
-## Dự án chọn lọc
-
-Ba dự án thể hiện rõ nhất cách tôi làm việc với Unity, C# và gameplay.
-
-<details>
-<summary><b>PROJECT 01 · OOPS BRAKE</b></summary>
+<details open>
+<summary><b>Tiếng Việt</b></summary>
 
 <br/>
+
+## Dự án chọn lọc
+
+Ba dự án thể hiện rõ nhất kinh nghiệm của tôi với Unity, C# và gameplay.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Oops Brake
 
 **Trưởng nhóm · Lập trình viên**
 
-Ở **Oops Brake**, tôi tham gia xây dựng gameplay phương tiện, hệ thống giao thông, tương tác trên đường và các công cụ hỗ trợ phát triển trong Unity.
+Gameplay phương tiện, hệ thống giao thông, tương tác trên đường và các công cụ hỗ trợ phát triển trong Unity.
 
-<code>Unity</code> <code>C#</code> <code>3D</code> <code>Gameplay</code>
+<code>Unity</code> <code>C#</code> <code>3D</code>
 
-[**Mở repository ↗**](https://github.com/Dev-GiaPhu/Oops-Brake)
+[Repository](https://github.com/Dev-GiaPhu/Oops-Brake)
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<br/>
-
-<details>
-<summary><b>PROJECT 02 · GAMEBOOTH LẬT HÌNH</b></summary>
-
-<br/>
+### GameBooth Lật Hình
 
 **Lập trình viên**
 
-Tôi tham gia phát triển luồng chơi và UI tương tác cho GameBooth Lật Hình.
+Phát triển luồng chơi và UI tương tác trong Unity.
 
 <code>Unity</code> <code>C#</code> <code>UI</code>
 
-[**Mở repository ↗**](https://github.com/XTH-CNTT-FPOLY-HCM/GameBooth_LatHinh)
+[Repository](https://github.com/XTH-CNTT-FPOLY-HCM/GameBooth_LatHinh)
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<br/>
-
-<details>
-<summary><b>PROJECT 03 · PIXEL SURVIVOR</b></summary>
-
-<br/>
+### Pixel Survivor
 
 **Dự án cá nhân · Đang phát triển**
 
-Pixel Survivor là dự án cá nhân với các hệ thống ngắm bắn, vũ khí, sát thương, máu, tương tác, camera và điều khiển nhân vật.
+Hệ thống ngắm bắn, vũ khí, sát thương, máu, tương tác, camera và điều khiển nhân vật.
 
 <code>Unity</code> <code>C#</code> <code>Gameplay</code>
 
-[**Mở repository ↗**](https://github.com/Dev-GiaPhu/Pixel-Survivor)
+[Repository](https://github.com/Dev-GiaPhu/Pixel-Survivor)
 
-</details>
-
----
+</td>
+</tr>
+</table>
 
 ## Kỹ năng chính
 
@@ -86,14 +84,14 @@ Pixel Survivor là dự án cá nhân với các hệ thống ngắm bắn, vũ 
 
 ### Unity
 
-Phát triển game 2D/3D, triển khai gameplay và làm việc với các hệ thống trong Unity.
+Phát triển game 2D/3D và triển khai gameplay.
 
 </td>
 <td width="50%" valign="top">
 
 ### C#
 
-Xây dựng logic gameplay, hệ thống và công cụ hỗ trợ phát triển.
+Xây dựng logic gameplay, hệ thống và công cụ hỗ trợ.
 
 </td>
 </tr>
@@ -115,34 +113,130 @@ Triển khai giao diện và phản hồi trực quan phục vụ trải nghiệ
 </tr>
 </table>
 
----
-
 ## Về tôi
 
 Tôi là một nhà phát triển game với chuyên môn về **Unity và C#**, kết hợp cùng kỹ năng thiết kế đồ họa game. Tôi có tư duy sáng tạo, khả năng phân tích và luôn chú trọng đến chi tiết trong quá trình phát triển.
 
 Tôi thích chia gameplay thành các hệ thống rõ ràng, kiểm soát từng phần nhỏ và liên tục tinh chỉnh để trải nghiệm cuối cùng có phản hồi tốt hơn.
 
-<details>
-<summary><b>Xem thêm về cách tôi làm việc</b></summary>
-
-<br/>
-
-Trong dự án nhóm, tôi có kinh nghiệm đảm nhiệm vai trò **trưởng nhóm** song song với lập trình. Tôi ưu tiên cấu trúc hệ thống dễ theo dõi, gameplay có phản hồi rõ ràng và UI hỗ trợ người chơi thay vì gây nhiễu.
-
-</details>
-
----
+Trong dự án nhóm, tôi có kinh nghiệm đảm nhiệm vai trò **trưởng nhóm** song song với lập trình.
 
 ## Liên hệ
 
-Nếu bạn muốn trao đổi về game, Unity hoặc một dự án phù hợp:
+[Portfolio - Nguyễn Gia Phú](https://dev-giaphu.github.io/Portfolio-GiaPhu/)  
+[GitHub](https://github.com/Dev-GiaPhu)
 
-[**Mở portfolio Dark UI ↗**](https://github.com/Dev-GiaPhu/Portfolio-GiaPhu/tree/Dark-UI)  
-[**GitHub ↗**](https://github.com/Dev-GiaPhu)
+</details>
+
+<details>
+<summary><b>English</b></summary>
+
+<br/>
+
+## Selected Projects
+
+Three projects that best represent my experience with Unity, C#, and gameplay development.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Oops Brake
+
+**Team Lead · Programmer**
+
+Vehicle gameplay, traffic systems, road interactions, and development tools built in Unity.
+
+<code>Unity</code> <code>C#</code> <code>3D</code>
+
+[Repository](https://github.com/Dev-GiaPhu/Oops-Brake)
+
+</td>
+<td width="33%" valign="top">
+
+### GameBooth Matching Game
+
+**Programmer**
+
+Gameplay flow and interactive UI development in Unity.
+
+<code>Unity</code> <code>C#</code> <code>UI</code>
+
+[Repository](https://github.com/XTH-CNTT-FPOLY-HCM/GameBooth_LatHinh)
+
+</td>
+<td width="33%" valign="top">
+
+### Pixel Survivor
+
+**Personal Project · In Development**
+
+Aiming, weapons, damage, health, interaction, camera, and player-control systems.
+
+<code>Unity</code> <code>C#</code> <code>Gameplay</code>
+
+[Repository](https://github.com/Dev-GiaPhu/Pixel-Survivor)
+
+</td>
+</tr>
+</table>
+
+## Core Skills
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Unity
+
+2D/3D game development and gameplay implementation.
+
+</td>
+<td width="50%" valign="top">
+
+### C#
+
+Gameplay logic, systems, and development tools.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Gameplay Systems
+
+Movement, interaction, combat, states, and progression systems.
+
+</td>
+<td width="50%" valign="top">
+
+### UI
+
+Game UI implementation and visual feedback for player experience.
+
+</td>
+</tr>
+</table>
+
+## About Me
+
+I am a game developer specializing in **Unity and C#**, with additional experience in game graphic design. I value creative problem-solving, analytical thinking, and attention to detail throughout development.
+
+I like breaking gameplay into clear systems, controlling each part carefully, and continuously refining the final player experience.
+
+In team projects, I have experience working as both a **team lead** and a programmer.
+
+## Contact
+
+[Portfolio - Nguyễn Gia Phú](https://dev-giaphu.github.io/Portfolio-GiaPhu/)  
+[GitHub](https://github.com/Dev-GiaPhu)
+
+</details>
 
 <br/>
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" alt="Game Developer Portfolio"/>
+<a href="https://dev-giaphu.github.io/Portfolio-GiaPhu/">
+  <img src="./assets/footer.svg" width="100%" alt="Game Developer Portfolio"/>
+</a>
 </div>
