@@ -124,7 +124,6 @@ Trong dự án nhóm, tôi có kinh nghiệm đảm nhiệm vai trò **trưởng
 ## Liên hệ
 
 [Portfolio - Nguyễn Gia Phú](https://dev-giaphu.github.io/Portfolio-GiaPhu/)  
-[Tải CV](https://github.com/Dev-GiaPhu/Dev-GiaPhu/raw/refs/heads/main/CV-Nguyen-Gia-Phu.pdf)  
 [GitHub](https://github.com/Dev-GiaPhu)
 
 </details>
@@ -230,7 +229,6 @@ In team projects, I have experience working as both a **team lead** and a progra
 ## Contact
 
 [Portfolio - Nguyễn Gia Phú](https://dev-giaphu.github.io/Portfolio-GiaPhu/)  
-[Download CV](https://github.com/Dev-GiaPhu/Dev-GiaPhu/raw/refs/heads/main/CV-Nguyen-Gia-Phu.pdf)  
 [GitHub](https://github.com/Dev-GiaPhu)
 
 </details>
