@@ -1,11 +1,18 @@
-<svg width="1200" height="245" viewBox="0 0 1200 245" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="245" fill="#101621"/>
-  <rect x="30" y="20" width="1134" height="190" fill="#192833" stroke="#A2EFD133"/>
-  <rect x="38" y="28" width="1134" height="190" fill="none" stroke="#080E17" stroke-width="6"/>
-  <rect x="55" y="43" width="5" height="28" fill="#A2EFD1"/>
-  <text x="78" y="64" fill="#A2EFD1" font-size="13" font-family="monospace" letter-spacing="2">ABOUT / PLAYER ONE</text>
-  <text x="55" y="112" fill="#EEF2E6" font-size="27" font-weight="700" font-family="monospace">I BUILD GAMES YOU CAN PLAY.</text>
-  <text x="55" y="146" fill="#BBCBCE" font-size="16" font-family="sans-serif">Unity game developer focused on gameplay systems, 2D/3D prototypes, mechanics and tools.</text>
-  <text x="55" y="177" fill="#BBCBCE" font-size="16" font-family="sans-serif">My work is built in Unity with C# — from small experiments to complete game projects.</text>
-  <text x="1005" y="178" fill="#FFD18C" font-size="12" font-family="monospace">GAME DEV ONLY</text>
+<svg width="620" height="430" viewBox="0 0 620 430" xmlns="http://www.w3.org/2000/svg">
+<rect width="620" height="430" fill="#101621"/>
+<rect x="10" y="10" width="586" height="382" fill="#192833" stroke="#A2EFD133"/>
+<rect x="17" y="17" width="586" height="382" fill="none" stroke="#080E17" stroke-width="6"/>
+<text x="38" y="58" fill="#A2EFD1" font-size="12" font-family="monospace" letter-spacing="2">BEHIND THE PIXELS</text>
+<text x="38" y="104" fill="#EEF2E6" font-size="24" font-weight="700" font-family="sans-serif">Mỗi game có một câu chuyện.</text>
+<text x="38" y="145" fill="#BBCBCE" font-size="14" font-family="sans-serif">Tôi muốn portfolio cho người xem cảm nhận cách mình</text>
+<text x="38" y="168" fill="#BBCBCE" font-size="14" font-family="sans-serif">nghĩ về tương tác: dễ bắt đầu, có điều để khám phá</text>
+<text x="38" y="191" fill="#BBCBCE" font-size="14" font-family="sans-serif">và luôn phản hồi khi bạn thử một thứ mới.</text>
+<rect x="38" y="232" width="520" height="84" fill="#FFD18C09"/>
+<rect x="38" y="232" width="3" height="84" fill="#FFD18C"/>
+<text x="56" y="263" fill="#FFD18C" font-size="12" font-family="sans-serif">Phần giới thiệu đang là bản nháp.</text>
+<text x="56" y="285" fill="#FFD18C" font-size="12" font-family="sans-serif">Kinh nghiệm và kỹ năng cụ thể sẽ bổ sung từ thông tin</text>
+<text x="56" y="304" fill="#FFD18C" font-size="12" font-family="sans-serif">bạn cung cấp.</text>
+<rect x="38" y="340" width="156" height="40" fill="#A2EFD1"/>
+<rect x="42" y="344" width="156" height="40" fill="none" stroke="#3D7569" stroke-width="4"/>
+<text x="116" y="366" text-anchor="middle" fill="#132B2B" font-size="13" font-weight="700" font-family="sans-serif">GitHub của tôi</text>
 </svg>
