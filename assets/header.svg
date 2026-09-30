@@ -1,15 +1,24 @@
-<svg width="1200" height="118" viewBox="0 0 1200 118" xmlns="http://www.w3.org/2000/svg">
-<rect width="1200" height="118" fill="#07090D"/>
-<rect x="30" y="22" width="1140" height="72" rx="16" fill="#0D121A" stroke="#FFFFFF18"/>
-<rect x="48" y="39" width="38" height="38" rx="10" fill="#8FF5D0"/>
-<text x="67" y="64" text-anchor="middle" fill="#07110E" font-size="14" font-weight="700" font-family="monospace">GP</text>
-<text x="105" y="56" fill="#F3F7F5" font-size="15" font-weight="700" font-family="monospace">GIA PHÚ</text>
-<text x="105" y="74" fill="#73808C" font-size="10" font-family="monospace">/ NHÀ PHÁT TRIỂN GAME · LẬP TRÌNH VIÊN UNITY</text>
-<text x="650" y="61" fill="#8FF5D0" font-size="11" font-family="sans-serif">TRANG CHỦ</text>
-<text x="758" y="61" fill="#A9B3BC" font-size="11" font-family="sans-serif">DỰ ÁN</text>
-<text x="836" y="61" fill="#A9B3BC" font-size="11" font-family="sans-serif">GIỚI THIỆU</text>
-<text x="940" y="61" fill="#A9B3BC" font-size="11" font-family="sans-serif">LIÊN HỆ</text>
-<rect x="1047" y="39" width="101" height="36" rx="10" fill="#101822" stroke="#FFFFFF18"/>
-<text x="1097" y="61" text-anchor="middle" fill="#DDE6E1" font-size="10" font-family="monospace">PORTFOLIO ↗</text>
-<rect x="650" y="76" width="18" height="2" fill="#8FF5D0"/>
+<svg width="1200" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07090D"/>
+    <stop offset="1" stop-color="#0B1118"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#8FF5D0" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#8FF5D0" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1200" height="250" rx="24" fill="url(#bg)"/>
+<circle cx="1010" cy="70" r="210" fill="url(#glow)"/>
+<rect x="34" y="28" width="1132" height="194" rx="22" fill="#0B1118" stroke="#FFFFFF14"/>
+<rect x="56" y="50" width="46" height="46" rx="12" fill="#8FF5D0"/>
+<text x="79" y="80" text-anchor="middle" fill="#07110E" font-size="16" font-weight="700" font-family="Arial, sans-serif">GP</text>
+<text x="124" y="67" fill="#F3F7F5" font-size="16" font-weight="700" font-family="Arial, sans-serif">NGUYEN GIA PHU</text>
+<text x="124" y="89" fill="#71808D" font-size="11" font-family="Arial, sans-serif">GAME DEVELOPER · UNITY DEVELOPER</text>
+<text x="56" y="154" fill="#F3F7F5" font-size="44" font-weight="700" font-family="Arial, sans-serif">PORTFOLIO</text>
+<text x="58" y="184" fill="#8FF5D0" font-size="14" font-family="Arial, sans-serif">UNITY · C# · GAMEPLAY SYSTEMS · UI</text>
+<circle cx="1092" cy="73" r="5" fill="#8FF5D0"/>
+<circle cx="1110" cy="73" r="5" fill="#34414C"/>
+<circle cx="1128" cy="73" r="5" fill="#34414C"/>
 </svg>
