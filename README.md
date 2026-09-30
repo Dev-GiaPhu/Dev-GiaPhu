@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Dev-GiaPhu portfolio banner"/>
+<img src="./assets/header.svg" width="100%" alt="Dev-GiaPhu game developer portfolio banner"/>
 
 <br/>
 
-### Game Developer • Unity • Web / Backend
+### Unity Game Developer • C#
 
-I build games, tools, and interactive projects.
+I build games, gameplay systems, and Unity tools.
 
 </div>
 
@@ -14,14 +14,15 @@ I build games, tools, and interactive projects.
 
 ## About
 
-I'm **Dev-GiaPhu**, a developer focused on game development and interactive experiences.
+I'm **Dev-GiaPhu**, a game developer focused on **Unity** and **C#**.
 
-I enjoy working with **Unity**, gameplay systems, custom tools, backend services, and web projects.  
-This profile is mainly a portfolio of things I've built and experimented with.
+I enjoy building gameplay systems, experimenting with mechanics, creating 2D/3D game projects, and making tools that improve my Unity workflow.
+
+This profile is a portfolio of my game-development work.
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -29,14 +30,14 @@ This profile is mainly a portfolio of things I've built and experimented with.
 
 ### [Elementaria](https://github.com/Dev-GiaPhu/Elementaria)
 
-Game development project focused on gameplay and systems.
+Unity game project focused on gameplay and systems.
 
 </td>
 <td width="50%" valign="top">
 
 ### [OUT-BREAK](https://github.com/Dev-GiaPhu/OUT-BREAK)
 
-Unity game project with a darker action-oriented direction.
+Unity game project with an action-oriented direction.
 
 </td>
 </tr>
@@ -46,7 +47,7 @@ Unity game project with a darker action-oriented direction.
 
 ### [Dreamy-Farm](https://github.com/Dev-GiaPhu/Dreamy-Farm)
 
-A softer game project with a different visual direction.
+Unity game project with a softer visual direction.
 
 </td>
 <td width="50%" valign="top">
@@ -61,16 +62,16 @@ Pixel-style survivor game project.
 <tr>
 <td width="50%" valign="top">
 
-### [My-Custom-Tool-Unity](https://github.com/Dev-GiaPhu/My-Custom-Tool-Unity)
+### [Hero-Doom](https://github.com/Dev-GiaPhu/Hero-Doom)
 
-Custom Unity tooling and workflow experiments.
+Game-development project built around Unity gameplay experiments.
 
 </td>
 <td width="50%" valign="top">
 
-### [Server-JemCity](https://github.com/Dev-GiaPhu/Server-JemCity)
+### [My-Custom-Tool-Unity](https://github.com/Dev-GiaPhu/My-Custom-Tool-Unity)
 
-Backend / server-side project.
+Custom Unity tooling and editor workflow experiments.
 
 </td>
 </tr>
@@ -82,22 +83,20 @@ Backend / server-side project.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=unity,cs,js,html,css,nodejs,git,github&theme=dark" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" alt="Unity and C#"/>
 
 </div>
 
 ---
 
-## More Work
+## More Game Projects
 
-Other repositories include:
-
-- [Hero-Doom](https://github.com/Dev-GiaPhu/Hero-Doom)
+- [JellyMerge](https://github.com/Dev-GiaPhu/JellyMerge)
+- [Oops-Brake](https://github.com/Dev-GiaPhu/Oops-Brake)
 - [GAM202-3DBasic](https://github.com/Dev-GiaPhu/GAM202-3DBasic)
 - [ASM-Game3D](https://github.com/Dev-GiaPhu/ASM-Game3D)
 - [3D-Nang-Cao](https://github.com/Dev-GiaPhu/3D-Nang-Cao)
-- [Portfolio-GiaPhu](https://github.com/Dev-GiaPhu/Portfolio-GiaPhu)
-- [Back-End](https://github.com/Dev-GiaPhu/Back-End)
+- [OJT-FA26_MusicGame](https://github.com/Dev-GiaPhu/OJT-FA26_MusicGame)
 
 ---
 
