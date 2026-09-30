@@ -1,123 +1,148 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Nguyễn Gia Phú — Game Developer"/>
+<img src="./assets/header.svg" width="100%" alt="Nguyen Gia Phu - Unity Game Developer"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Dev-GiaPhu/Portfolio-GiaPhu/Dark-UI/assets/GiaPhu_Avatar_transparent.png" width="210" alt="Nguyen Gia Phu"/>
+
+### Nguyễn Gia Phú
+
+**Game Developer · Unity Developer**
+
+Tôi tập trung vào **Unity**, **C#**, gameplay systems và UI trong game.
+
+<p>
+  <img src="https://img.shields.io/badge/UNITY-0B1118?style=for-the-badge&logo=unity&logoColor=8FF5D0" alt="Unity"/>
+  <img src="https://img.shields.io/badge/C%23-0B1118?style=for-the-badge&logo=csharp&logoColor=8FF5D0" alt="C Sharp"/>
+  <img src="https://img.shields.io/badge/GAMEPLAY-0B1118?style=for-the-badge&logoColor=8FF5D0" alt="Gameplay"/>
+  <img src="https://img.shields.io/badge/UI-0B1118?style=for-the-badge&logoColor=8FF5D0" alt="UI"/>
+</p>
+
+</div>
+
+---
+
+## Dự án chọn lọc
+
+Ba dự án thể hiện rõ nhất cách tôi làm việc với Unity, C# và gameplay.
+
+<details>
+<summary><b>PROJECT 01 · OOPS BRAKE</b></summary>
+
+<br/>
+
+**Trưởng nhóm · Lập trình viên**
+
+Ở **Oops Brake**, tôi tham gia xây dựng gameplay phương tiện, hệ thống giao thông, tương tác trên đường và các công cụ hỗ trợ phát triển trong Unity.
+
+<code>Unity</code> <code>C#</code> <code>3D</code> <code>Gameplay</code>
+
+[**Mở repository ↗**](https://github.com/Dev-GiaPhu/Oops-Brake)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>PROJECT 02 · GAMEBOOTH LẬT HÌNH</b></summary>
+
+<br/>
+
+**Lập trình viên**
+
+Tôi tham gia phát triển luồng chơi và UI tương tác cho GameBooth Lật Hình.
+
+<code>Unity</code> <code>C#</code> <code>UI</code>
+
+[**Mở repository ↗**](https://github.com/XTH-CNTT-FPOLY-HCM/GameBooth_LatHinh)
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>PROJECT 03 · PIXEL SURVIVOR</b></summary>
+
+<br/>
+
+**Dự án cá nhân · Đang phát triển**
+
+Pixel Survivor là dự án cá nhân với các hệ thống ngắm bắn, vũ khí, sát thương, máu, tương tác, camera và điều khiển nhân vật.
+
+<code>Unity</code> <code>C#</code> <code>Gameplay</code>
+
+[**Mở repository ↗**](https://github.com/Dev-GiaPhu/Pixel-Survivor)
+
+</details>
+
+---
+
+## Kỹ năng chính
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-<img src="./assets/hero-copy.svg" width="100%" alt="Portfolio intro"/>
+### Unity
+
+Phát triển game 2D/3D, triển khai gameplay và làm việc với các hệ thống trong Unity.
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Dev-GiaPhu/Portfolio-GiaPhu/Dark-UI/assets/GiaPhu_Avatar_transparent.png" width="92%" alt="Nguyễn Gia Phú"/>
+### C#
+
+Xây dựng logic gameplay, hệ thống và công cụ hỗ trợ phát triển.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Gameplay Systems
+
+Điều khiển, tương tác, chiến đấu, trạng thái và tiến trình trong game.
+
+</td>
+<td width="50%" valign="top">
+
+### UI
+
+Triển khai giao diện và phản hồi trực quan phục vụ trải nghiệm người chơi.
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## Về tôi
+
+Tôi là một nhà phát triển game với chuyên môn về **Unity và C#**, kết hợp cùng kỹ năng thiết kế đồ họa game. Tôi có tư duy sáng tạo, khả năng phân tích và luôn chú trọng đến chi tiết trong quá trình phát triển.
+
+Tôi thích chia gameplay thành các hệ thống rõ ràng, kiểm soát từng phần nhỏ và liên tục tinh chỉnh để trải nghiệm cuối cùng có phản hồi tốt hơn.
 
 <details>
-<summary><b>👤 GIỚI THIỆU VỀ TÔI</b></summary>
+<summary><b>Xem thêm về cách tôi làm việc</b></summary>
 
 <br/>
 
-Tôi là **Nguyễn Gia Phú**, một nhà phát triển game tập trung vào **Unity** và **C#**.
-
-Tôi quan tâm đến gameplay system, UI, điều khiển, tương tác và cách làm cho game có phản hồi rõ ràng khi người chơi thao tác.
-
-**Vai trò:** Game Developer · Unity Developer  
-**Core:** Unity · C# · Gameplay Systems · UI
+Trong dự án nhóm, tôi có kinh nghiệm đảm nhiệm vai trò **trưởng nhóm** song song với lập trình. Tôi ưu tiên cấu trúc hệ thống dễ theo dõi, gameplay có phản hồi rõ ràng và UI hỗ trợ người chơi thay vì gây nhiễu.
 
 </details>
 
-<br/>
+---
 
-<img src="./assets/projects-title.svg" width="100%" alt="Dự án chọn lọc"/>
+## Liên hệ
 
-<details>
-<summary><b>🎮 OOPS BRAKE — DỰ ÁN / 01</b></summary>
+Nếu bạn muốn trao đổi về game, Unity hoặc một dự án phù hợp:
 
-<br/>
-
-<img src="./assets/project-oops-brake.svg" width="100%" alt="Oops Brake"/>
-
-**Vai trò:** Trưởng nhóm · Lập trình viên  
-**Công nghệ:** Unity · C# · 3D
-
-Tôi tham gia xây dựng gameplay phương tiện, hệ thống giao thông, tương tác trên đường và các công cụ hỗ trợ phát triển trong Unity.
-
-[**Xem chi tiết dự án ↗**](https://dev-giaphu.github.io/Portfolio-GiaPhu/project.html)
-
-</details>
-
-<details>
-<summary><b>🧩 GAMEBOOTH LẬT HÌNH — DỰ ÁN / 02</b></summary>
+[**Mở portfolio Dark UI ↗**](https://github.com/Dev-GiaPhu/Portfolio-GiaPhu/tree/Dark-UI)  
+[**GitHub ↗**](https://github.com/Dev-GiaPhu)
 
 <br/>
 
-<img src="./assets/project-gamebooth.svg" width="100%" alt="GameBooth Lật Hình"/>
-
-**Vai trò:** Lập trình viên  
-**Công nghệ:** Unity · C# · UI
-
-Tôi tham gia lập trình luồng chơi và giao diện tương tác.
-
-[**Mở GitHub ↗**](https://github.com/XTH-CNTT-FPOLY-HCM/GameBooth_LatHinh)
-
-</details>
-
-<details>
-<summary><b>🔫 PIXEL SURVIVOR — DỰ ÁN / 03</b></summary>
-
-<br/>
-
-<img src="./assets/project-pixel-survivor.svg" width="100%" alt="Pixel Survivor"/>
-
-**Loại:** Dự án cá nhân · Đang phát triển  
-**Công nghệ:** Unity · C# · Gameplay
-
-Pixel Survivor có các hệ thống ngắm bắn, vũ khí, sát thương, máu, tương tác, camera và điều khiển nhân vật.
-
-[**Mở GitHub ↗**](https://github.com/Dev-GiaPhu/Pixel-Survivor)
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>🛠️ KỸ NĂNG CHÍNH</b></summary>
-
-<br/>
-
-<img src="./assets/skills-panel.svg" width="100%" alt="Kỹ năng chính"/>
-
-**Unity** — Phát triển game 2D/3D và triển khai gameplay.  
-**C#** — Logic gameplay, hệ thống và công cụ hỗ trợ.  
-**Gameplay Systems** — Điều khiển, tương tác, chiến đấu, trạng thái và tiến trình.  
-**UI** — Thiết kế và triển khai giao diện phục vụ trải nghiệm game.
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>✉️ LIÊN HỆ</b></summary>
-
-<br/>
-
-<img src="./assets/contact-cta.svg" width="100%" alt="Liên hệ"/>
-
-Tôi luôn muốn tiếp tục học hỏi, phát triển kỹ năng Unity và tham gia những dự án game có thử thách thực tế.
-
-[**Mở trang liên hệ ↗**](https://dev-giaphu.github.io/Portfolio-GiaPhu/contact.html)
-
-</details>
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Portfolio"/>
-
+<div align="center">
+<img src="./assets/footer.svg" width="100%" alt="Game Developer Portfolio"/>
 </div>
